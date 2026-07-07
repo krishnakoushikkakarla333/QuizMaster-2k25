@@ -4,10 +4,6 @@
 
 > Built with React, Supabase, and TailwindCSS
 
-### Live Demo
-
-[https://quiz-2k25.vercel.app](https://quiz-2k25.vercel.app)
-
 ## Features
 
 ### Faculty Panel
@@ -70,4 +66,4 @@
 
 ## Contact
 
-**Author:** Nikhil R Nambiar
+**Author:** Krishna Koushik K
